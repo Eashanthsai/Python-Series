@@ -1,0 +1,7 @@
+Today I am going to learn about the lists in Python and I have devided them into certai levels which goes from Understanding level to Basic Level.
+
+
+What is List?
+Lists are used to store multiple items in a single variable.
+Lists are one of the four built-in data types in python used to store the collection of data and the other data types are Tuple , Set Dictionary.
+Lists are created using the Square brackets.

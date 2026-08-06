@@ -56,3 +56,18 @@ print('Bunty' not in txt)
 if 'girls' in txt:
     print("Yes , girls is present in the String")
 
+#Slicing the Strings
+print(name1[1:4])#this is the method uesd to Slice the String in Python it will print the first three characters of the String
+print(name1[:5]) # this will print the first five characters of the String
+print(name1[1:5]) #in this line we are printing the String from the Second to the Last which means we are slicing the String for the Beginning)
+print(name1[-5:-1])# here we are using the negative indexing where we cannot determine the length of the String but we can use this method to Sclie the String
+
+
+#changng the case of the String
+print(name1.upper())#here we are changing the String to Uppercase this is method to modify the CASE of the String
+print(name1.lower())#here we are changing the String to Lowercase this is method to modify the CASE of the String
+
+NAME = " Eashanth sai "
+print(NAME.strip())# This is a method used to remove the whitespace form the Begining and the END of the String
+
+print(NAME.replace('Eashanth',"Bunty"))# This is a method used to replace the String with another String
