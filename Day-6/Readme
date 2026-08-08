@@ -1,0 +1,5 @@
+Today I am going to learn about the Tuple in Python.
+I came to know that Tuple is also used to store multiple data or items in a single variable . 
+The main difference between the Tuple and the List is Mutation which mean the List is mutable and the tuple is not Mutable .
+Whichh mean that the Tuple is not changable.
+It is written in the Paranthesis or round brackets.
